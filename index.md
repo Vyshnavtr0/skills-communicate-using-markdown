@@ -3,4 +3,4 @@
 # my name is vyshnav
 
 
-![my image ](https://octodex.github.com/images/yaktocat.png)
+![my Image ](https://octodex.github.com/images/yaktocat.png)
